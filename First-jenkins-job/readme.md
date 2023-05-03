@@ -33,3 +33,21 @@ Write a new shell script to check environment variables BUILD_ID AND BUILD_URL.
 Build the project and check the console output.
 
 ![image](https://user-images.githubusercontent.com/80820244/235944626-d9fc1a5f-68e3-41c2-b8cb-b1c391c5fc80.png)
+
+Writing a shell script to test Workspace.
+
+![image](https://user-images.githubusercontent.com/80820244/235945775-6f86aab6-120e-42fe-ba48-c96c654d5b3f.png)
+
+Build and check console output.
+
+![image](https://user-images.githubusercontent.com/80820244/235946263-6e714591-3534-4faf-8523-584b9d96fc68.png)
+
+We can see the new file created. 
+
+Check the workspace for the file.
+
+![image](https://user-images.githubusercontent.com/80820244/235946479-3471de3b-f7ec-466c-8e78-89262a0d4275.png)
+
+
+![image](https://user-images.githubusercontent.com/80820244/235946459-4b94adf4-175f-400e-a86c-ffc736634b20.png)
+
