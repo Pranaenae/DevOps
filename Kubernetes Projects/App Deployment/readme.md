@@ -23,3 +23,26 @@ Create the deployment.
 ![image](https://user-images.githubusercontent.com/80820244/236732026-966ab888-693a-4d37-a5e9-42880bee5b68.png)
 
 # Creating an internal service
+
+Add service yaml to the file.
+
+![image](https://user-images.githubusercontent.com/80820244/236732576-15ab1fef-1863-41a6-a0bd-df8845e93e55.png)
+
+Apply the file.
+![image](https://user-images.githubusercontent.com/80820244/236732887-6114590a-f1eb-4d97-8124-6ee102f03767.png)
+
+Write yaml for mongo-express and service.
+![image](https://user-images.githubusercontent.com/80820244/236733878-3c8f96e2-af22-48ff-958d-74307a3c09e7.png)
+![image](https://user-images.githubusercontent.com/80820244/236733915-f6090302-b869-4021-b743-10f783d58e8b.png)
+
+Write yaml for mongo-configmap.
+![image](https://user-images.githubusercontent.com/80820244/236733791-dc36f1f1-ff9c-40eb-b563-688c5ada66c8.png)
+
+
+Create the mongodb Configmap and mongo express deployment.
+
+![image](https://user-images.githubusercontent.com/80820244/236733721-34b432f6-09de-4c4e-bc67-b87f0f3e3a15.png)
+
+MongoDB external service created.
+
+![image](https://user-images.githubusercontent.com/80820244/236734276-bb5af85e-0743-45d9-83d8-eecd4fa6abc8.png)
